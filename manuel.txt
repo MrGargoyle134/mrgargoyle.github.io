@@ -1,0 +1,138 @@
+
++\                   /+
+| \                 / |
+|  >--[FLAG v0.1]--<  |
+| /                 \ | 
++/                   \+
+|                     |
+|                     |
+|                     |
+
+
+MANUEL D'UTILISATION PRESENTE PAR:
+
+  ||\  || ||       ||
+  || \ || ||       ||
+  || / || ||       ||
+  ||/  || ||       ||
+  ||\  || ||       ||
+  || \ || ||       ||
+  || / || ||_____  ||_____
+  ||/  || ||_____| ||_____|
+                            LE G@MER !  ;;;;;;;
+                                       ;.-----.;
+                                       ;|-O-O-|;
+                                       (|  >  |)
+                                        |  u  |
+                                         '---'   ET LE N3RD !
+
+A propos du jeu...
+
++---------------------------------------------+
+| Créateur         : MrGargoyle               |
+| Date de création : 03/03/2021               |
+| Version          : 0.1                      |
+| Console          : NES/Famicom et variantes |
+| Taille de la ROM : 24ko (NROM)              |
++---------------------------------------------+
+
+ ;;;;;;;
+;.-----.
+;|-O--O|  Seulement 24ko ? Vraiment ? Incroyable !
+(|   > |
+ |   O |
+  '---'
+
+Et oui ! Il n'y a pas beaucoup de données graphiques.
+
+ ;;;;;;;
+;.-----.
+;|-v--v|  Ouais.. C'est parce-que t'es nul en pixel art, pas vrai ?
+(|   > |
+ |   u |
+  '---'
+
+Pas besoin de me le rappeler sans cesse, Bill...
+
+Comment jouer ?
+~~~~~~~~~~~~~~~
+
+ ;;;;;;;
+;.-----.
+;|-O--O|  Pour y jouer sur PC, tu peux utiliser un émulateur de NES comme Mesen ou FCEUX.
+(|   > |
+ |   u |
+  '---'
+
+1/ Appuyez sur START sur le main menu pour commencer une partie.
+2/ Déplacez le personnage bleu avec la manette du joueur un et un autre joueur doit prendre la seconde manette pour contrôler le personnage rouge.
+
+ ;;;;;;;
+;.-----.
+;|-O--O|  Je prends le bleu ! Je prends le bleu !
+(|   > |
+ |   U |
+  '---'
+
+D'accord, moi je prends le rouge !
+
+But du jeu.
+~~~~~~~~~~~
+
+ ;;;;;;;
+;.-----.
+;|-^--^|  C'est essentiel pour gagner !  
+(|   > |
+ |   u |
+  '---'
+
+Le but du jeu est de voler le drapeau de l'adversaire (en le touchant d'une "certaine façon") et de l'amener dans son camp, en se cognant contre son mur. Si un joueur touche l'autre joueur (d'une "certaine façon") et que ce dernier a le drapeau, alors ce dernier perdra le drapeau et reculera de 8 pixels vers la droite (Joueur 2) ou vers la gauche (Joueur 1).
+Le premier qui amène le drapeau de son adversaire dans son camp gagne la partie.
+
+Yes ! J'ai gagné !
+
+ ;;;;;;;
+;.-----.
+;|-T--T|  Pas juste !
+(|   > |
+ |   ^ |
+  '---'
+
+Coming soon.
+~~~~~~~~~~~~
+
+- Possibilité de refaire une autre partie sans relancer le jeu.
+- Plusieurs modes de jeu.
+- Correction de bugs (s'il y en a).
+
+Si vous avez une suggestion ou un bug à signaler, contactez-moi :)
+
+ ;;;;;;;
+;.-----.
+;|-O--O|  Ce jeu est génial ! Je vais m'entraîner pour le grand tournoi de Flag...
+(|   > |
+ |   u |
+  '---'
+
+ ;;;;;;;
+;.-----.
+;|-O--O|  Moi ? Nul à ce jeu ? Nooon pas du tout...
+(|U  > |
+ |   - |
+  '---'
+
+Oh que si Bill !
+
+ ;;;;;;;
+;.-----.
+;|-X--X|  Bon.. D'accord c'est vrai.
+(|   > |
+ |   u |
+  '---'
+
+ ;;;;;;;
+;.-----.
+;|-O--O|  Bon moi je vous laisse. Je vais m'entraîner et après je vais étudier la science ! #N3rdTeam
+(|   > |
+ |   u |
+  '---'
